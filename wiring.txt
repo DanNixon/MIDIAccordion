@@ -1,0 +1,30 @@
+32	R0
+33	R1
+34	R2
+35	R3
+36	R4
+37	R5
+38	R6
+39	R7
+40	R8
+41	R9
+42	R10
+43	R11
+44	R12
+45	R13
+46	R14
+47	R15
+48	C0
+49	C1
+50	C2
+23	Channel Switch 1
+24	Channel Switch 2
+25	Sustain Switch
+26	Panic Switch
+27	Pitch B. Zero LED
+28	Channel LED 1
+29	Channel LED 2
+30	Sustain LED
+31	Panic LED
+1	MIDI Out
+
